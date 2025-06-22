@@ -1,11 +1,18 @@
 {
-    "id": 100,
-    "name": "Firts",
-    "author": "TheDethroner",
-    "creators": [],
-    "verifier": "TheDethroner",
-    "verification": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "percentToQualify": "100",
-    "password": "Free To Copy",
-    "records": [""],
+    "id": ,
+    "name": "Changed Enigma",
+    "author": "GDoof",
+    "creators": ["GDoof, IangelI"],
+    "verifier": "GDoof",
+    "verification": "https://youtu.be/oo_unmP4D_A?si=8c72zcl8ym2PRh29",
+    "percentToQualify": 78,
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "guy",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
