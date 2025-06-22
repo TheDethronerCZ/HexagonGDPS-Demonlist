@@ -1,18 +1,11 @@
-{
-    "id": ,
-    "name": "Changed Enigma",
-    "author": "GDoof",
-    "creators": ["GDoof, IangelI"],
-    "verifier": "GDoof",
-    "verification": "https://youtu.be/oo_unmP4D_A?si=8c72zcl8ym2PRh29",
-    "percentToQualify": 78,
+ {
+    "id": 148,
+    "name": "Embress",
+    "author": "IangelI",
+    "creators": ["IangelI"],
+    "verifier": "TheDethroner",
+    "verification": "https://youtu.be/lT1e1GK7reo",
+    "percentToQualify": 100,
     "password": "Free to copy",
-    "records": [
-        {
-            "user": "guy",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+    "records": [""]
 }
