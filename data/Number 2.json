@@ -1,4 +1,4 @@
-{
+;{
     "id": 145,
     "name": "Changed Enigma",
     "author": "GDoof",
@@ -7,5 +7,5 @@
     "verification": "https://youtu.be/oo_unmP4D_A?si=8c72zcl8ym2PRh29",
     "percentToQualify": 78,
     "password": "Free to copy",
-    "records": []
+    "records": [""]
 }
