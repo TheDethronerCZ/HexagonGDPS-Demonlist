@@ -7,5 +7,10 @@
     "verification": "https://youtu.be/j5v7GExO32U?si=_b2xO8Kd0VQJHswa",
     "percentToQualify": "57",
     "password": "Free to copy",
-    "records": [""]
+    "records": [{
+            "user": "TheDethroner",
+            "link": "https://youtu.be/ciUynLoek3Q",
+            "percent": 100,
+            "hz": 240
+        }]
 }
