@@ -1,0 +1,14 @@
+{
+    "id": 100,
+    "name": "100",
+    "author": "TheOwnerGuy",
+    "creators": ["TheOwnerGuy"],
+    "verifier": "TheOwnerGuy",
+    "verification": "https://youtube.com",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": [
+        {
+        }
+    ]
+}
