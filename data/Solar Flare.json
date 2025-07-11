@@ -7,7 +7,12 @@
     "verification": "https://medal.tv/games/requested/clips/kFbjZPAlUdHPbX7He?invite=cr-MSxOdUssMzI3MTIyNDA5",
     "percentToQualify": 100,
     "password": "Free to copy",
-    "records": [
+    "records": [ {
+            "user": "THEREALOWNERGUY",
+            "link": "https://www.youtube.com/shorts/_kFpKlsLtWk",
+            "percent": 100,
+            "hz": 240
+        }
 
     ]
 }
